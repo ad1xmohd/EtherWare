@@ -1,4 +1,4 @@
-# 🚀 Project NexusWiFi  
+# 🚀 Project EtherWare
 ### Next-Generation Wireless Management Platform
 
 ![Status](https://img.shields.io/badge/Status-Under%20Construction-blue)
