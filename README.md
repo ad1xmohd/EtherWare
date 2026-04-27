@@ -10,7 +10,7 @@
 
 ---
 
-# 🧠 ETHERWARE — External WiFi Intelligence
+# 🧠 ETHERWARE - External WiFi Intelligence
 
 **ETHERWARE** is a next-generation wireless management platform built around the concept of **External WiFi Intelligence**, designed to extend connectivity capabilities beyond traditional device limitations.
 
