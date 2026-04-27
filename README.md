@@ -1,176 +1,296 @@
-# 🚀 Project EtherWare
-### Next-Generation Wireless Management Platform
+# 🚀 ETHERWARE
+## External WiFi Intelligence Platform
 
-![Status](https://img.shields.io/badge/Status-Under%20Construction-blue)
+![Status](https://img.shields.io/badge/Status-Under%20Development-blue)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Architecture](https://img.shields.io/badge/Architecture-Modular-orange)
-![License](https://img.shields.io/badge/License-Private-red)
+![Project](https://img.shields.io/badge/Project-Closed--Source-red)
+![Usage](https://img.shields.io/badge/Usage-Educational-blue)
+![Root](https://img.shields.io/badge/Root-Not%20Required-brightgreen)
 
 ---
 
-## 🧠 Overview
+# 🧠 ETHERWARE — External WiFi Intelligence
 
-**EtherWare** is a next-generation wireless management platform designed to extend connectivity capabilities beyond traditional device limitations.
+**ETHERWARE** is a next-generation wireless management platform built around the concept of **External WiFi Intelligence**, designed to extend connectivity capabilities beyond traditional device limitations.
 
-Built with advanced communication architecture, the system enables intelligent wireless control, USB Wi-Fi adapter integration, persistent background services, and scalable automation workflows.
-
-This project focuses on delivering reliable, high-performance network management solutions for modern connectivity environments.
+It enables supported devices to expand wireless capability using compatible external WiFi adapters through OTG connections, while maintaining stable device behavior and system integrity.
 
 🚧 **Project Status: Under Active Development**
 
 ---
 
-## ✨ Key Features
+# 🧠 External WiFi Intelligence
 
-- 📡 Wireless Network Discovery
-- 🔌 USB Wi-Fi Adapter Support
-- 🔄 Automated Connection Management
-- 🧠 Intelligent Network Handling
-- 🗂 Connection History Storage
-- ⚙ Persistent Background Services
-- 🔐 Reliable Communication Architecture
-- 📈 Scalable System Design
-- 🔁 Automatic Reconnection Logic
-- 📊 Real-Time Network Status Monitoring
+**External WiFi Intelligence** is the core concept behind **ETHERWARE**.
 
----
+It allows supported devices to expand wireless capability beyond built-in hardware limitations using compatible external WiFi adapters.
 
-## 🏗 Architecture Overview
+This approach focuses on:
 
-The system is designed using a **modular architecture**, allowing independent components to operate efficiently while supporting future scalability.
+- Flexible wireless expansion
+- Reliable connectivity behavior
+- Stable device performance
+- Device-friendly operation
+- Extended wireless adaptability
 
-Core modules include:
-
-- **Wi-Fi Manager Engine**
-- **USB Communication Layer**
-- **HTTP Communication Interface**
-- **Database Storage System**
-- **Background Service Controller**
-- **UI Interaction Layer**
-
-This modular structure enables stable performance and easier future expansion.
+External WiFi Intelligence enables new connectivity possibilities while maintaining controlled and predictable system behavior.
 
 ---
 
-## 📡 Connectivity Capabilities
+# ✨ Key Features
+
+- 📡 Wireless Network Discovery  
+- 🔌 External USB Wi-Fi Adapter Support  
+- 🔄 Automated Connection Management  
+- 🧠 Intelligent Network Handling  
+- 🗂 Connection History Storage  
+- ⚙ Persistent Background Services  
+- 🔐 Reliable Communication Behavior  
+- 📈 Scalable System Design  
+- 🔁 Automatic Reconnection Logic  
+- 📊 Real-Time Network Status Monitoring  
+- 🛡 Device-Safe Operation  
+- 🚫 No Root Required  
+- 🚫 No Developer Mode Required  
+
+---
+
+# 🏗 Architecture Overview
+
+**ETHERWARE** is designed using a **modular architecture**, allowing independent components to operate efficiently while supporting future scalability.
+
+Core logical modules include:
+
+- Wireless Management Engine  
+- USB Communication Interface  
+- Background Service Controller  
+- Data Handling System  
+- Interaction Layer  
+
+This modular structure supports stable operation, controlled expansion, and long-term scalability.
+
+---
+
+# 📡 Connectivity Capabilities
 
 The platform supports:
 
-- Standard wireless networking
-- External USB Wi-Fi adapters
-- Persistent network sessions
-- Automated reconnection workflows
-- Network configuration management
+- Standard wireless networking  
+- External USB Wi-Fi adapters  
+- Persistent network sessions  
+- Automated reconnection workflows  
+- Dynamic wireless handling  
+- Extended connectivity environments  
 
-Designed to operate reliably even in dynamic and changing network environments.
-
----
-
-## 🔌 USB Adapter Integration
-
-One of the core strengths of this project is its ability to interface with compatible USB Wi-Fi adapters.
-
-Supported capabilities:
-
-- USB device detection
-- External Wi-Fi interface handling
-- Extended wireless connectivity
-- Advanced network scanning support
-- Hardware-level communication integration
-
-This allows the system to operate beyond typical built-in wireless limitations.
+Designed to operate reliably in dynamic network conditions.
 
 ---
 
-## ⚙ Background Service System
+# 🔌 USB Adapter Integration
 
-The platform includes persistent background operations designed to maintain reliable connectivity.
+One of the core strengths of **ETHERWARE** is its ability to interface with compatible external USB Wi-Fi adapters.
+
+Supported capabilities include:
+
+- USB device detection  
+- External wireless interface usage  
+- Extended wireless capability  
+- Advanced network interaction  
+- Hardware-assisted connectivity behavior  
+
+This enables expanded wireless behavior without relying solely on built-in device hardware.
+
+---
+
+# 🛡 Device Safety and System Integrity
+
+**ETHERWARE** is designed to operate within normal device boundaries.
+
+Key safety characteristics:
+
+- No root access required  
+- No developer mode required  
+- No protected system modification  
+- Maintains standard device behavior  
+- Designed for stability and reliability  
+
+Device integrity and safe operation are core design priorities.
+
+---
+
+# 🔌 Hardware Requirements
+
+To operate correctly, **ETHERWARE** requires:
+
+- Android device with **OTG support**  
+- Compatible **External USB Wi-Fi Adapter**  
+- Supported Android system environment  
+
+Compatibility may vary depending on device hardware capabilities.
+
+---
+
+# ⚙ Background Service System
+
+The platform includes persistent background operations designed to maintain reliable connectivity behavior.
 
 Key characteristics:
 
-- Auto-start after reboot
-- Continuous connection monitoring
-- Background network recovery
-- Resource-efficient operation
-- Wake-lock controlled execution
+- Auto-start support  
+- Continuous connection monitoring  
+- Background network recovery  
+- Resource-efficient operation  
+- Controlled execution behavior  
 
-This ensures uninterrupted connectivity behavior.
+This ensures consistent wireless management.
 
 ---
 
-## 🗂 Data Storage System
+# 🗂 Data Storage System
 
-Network-related data is stored using a structured database model.
+Network-related information is managed using a structured storage model.
 
 Stored information includes:
 
-- Saved networks
-- Connection records
-- Device interaction logs
-- Configuration details
+- Saved network records  
+- Connection interaction logs  
+- Configuration data  
+- Device communication records  
 
-This enables reliable history tracking and system diagnostics.
+This enables reliable tracking and system-level diagnostics.
 
 ---
 
-## 📊 Current Development Status
+# 🎯 Design Philosophy
+
+**ETHERWARE** is built around three core principles:
+
+### Reliability  
+Maintain stable wireless behavior across changing environments.
+
+### Safety  
+Preserve device integrity and prevent unsafe system behavior.
+
+### Intelligence  
+Enable advanced wireless flexibility while maintaining control.
+
+These principles guide system design and development decisions.
+
+---
+
+# 📊 Current Development Status
 
 🚧 **Under Construction**
 
-The following areas are actively being developed:
+Active development areas include:
 
-- Core connectivity improvements
-- USB adapter compatibility expansion
-- Performance optimization
-- Stability enhancements
-- UI refinement
-- System-level automation features
+- Connectivity improvements  
+- USB adapter compatibility expansion  
+- Performance optimization  
+- Stability refinement  
+- Interface improvement  
+- System-level automation  
 
-New updates will be published as development progresses.
-
----
-
-## 🛠 Technology Stack
-
-Primary technologies used in this project:
-
-- **Android Platform**
-- **Java / Kotlin**
-- **Room Database**
-- **Foreground Services**
-- **USB Hardware Communication**
-- **HTTP Networking**
-- **Modular System Architecture**
-
-Future integrations may include additional networking protocols and extended device compatibility.
+New updates will be introduced as development progresses.
 
 ---
 
-## 🎯 Project Goals
+# 🛠 Technology Stack
 
-This project aims to:
+Primary technologies used:
 
-- Improve wireless connectivity flexibility
-- Enable advanced device-level network control
-- Provide scalable networking solutions
-- Maintain stable long-running connectivity
-- Support hardware expansion capabilities
-- Deliver reliable automation workflows
+- Android Platform  
+- Java / Kotlin  
+- Room Database  
+- Foreground Services  
+- USB Hardware Communication  
+- Wireless Networking  
+- Modular Architecture  
+
+Future updates may include additional protocols and extended hardware compatibility.
 
 ---
 
-## 🚀 Future Roadmap
+# 🚀 Future Roadmap
 
 Planned upcoming features:
 
-- Enhanced USB device compatibility
-- Expanded network automation tools
-- Improved performance optimization
-- Advanced diagnostics system
-- Remote management capabilities
-- Extended protocol support
-- UI/UX refinement
-- System analytics dashboard
+- Expanded USB compatibility  
+- Advanced wireless automation  
+- Enhanced system diagnostics  
+- Extended network intelligence  
+- Performance improvements  
+- UI/UX refinement  
+- Extended connectivity support  
+- Advanced monitoring tools  
 
 ---
-> ⚠ This project is currently under development.
+
+# 🔮 Future Compatibility
+
+Future development aims to expand support for:
+
+- Additional USB Wi-Fi adapters  
+- Extended wireless protocols  
+- Advanced automation workflows  
+- Enhanced system-level diagnostics  
+
+---
+
+# 🔒 Closed-Source Notice
+
+**ETHERWARE** is a **closed-source project**.
+
+Internal source code, architecture, and implementation logic are not publicly distributed.
+
+Only selected documentation and descriptive materials may be shared publicly.
+
+Unauthorized reverse engineering, redistribution, or replication of internal components is not permitted.
+
+---
+
+# 📘 Usage Policy
+
+**ETHERWARE** is intended strictly for:
+
+- Educational use  
+- Personal experimentation  
+
+It is **not intended for commercial deployment** or enterprise-level distribution.
+
+---
+
+# ⚠ Terms of Use
+
+By interacting with **ETHERWARE**, you agree to the following:
+
+- Commercial use is **not permitted**  
+- Redistribution of modified versions **requires permission**  
+- Copying and resharing original documentation **is allowed**  
+- Modification of project materials **requires approval**  
+- Unauthorized repackaging or distribution is prohibited  
+
+Violation of these terms may result in restriction of project access.
+
+---
+
+# 📌 Disclaimer
+
+**ETHERWARE** is provided **as-is** without warranty.
+
+Users are responsible for:
+
+- Device compatibility  
+- Hardware selection  
+- Usage behavior  
+
+The project owner is not responsible for misuse, damage, or unintended outcomes.
+
+---
+
+# © ETHERWARE Project
+
+**External WiFi Intelligence Platform**  
+Closed-Source
+Under Active Development
