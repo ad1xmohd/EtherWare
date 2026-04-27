@@ -1,4 +1,4 @@
-# 🚀 ETHERWARE
+# 🚀 EtherWare
 ## External WiFi Intelligence Platform
 
 ![Status](https://img.shields.io/badge/Status-Under%20Development-blue)
